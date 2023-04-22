@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning 
 
-- 📫 find me on linkedin 
+- 📫 find me on 
 
 https://sites.google.com/view/kworigami/home
 
