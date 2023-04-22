@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @Shatury
-- 👀 I’m interested in html, css and javaScript for now
-- 🌱 I’m currently learning html and css plus some simple javaScript code
+ Hi, We are fold 
+    and interested in 
+    
+    Fundamentals
+    
+   basics
+   
+   sites.google.com 
+   
+   clouds
 
-- 📫 find me on linkedin https://www.linkedin.com/in/ahmed-shatury-a514501a6/
+
+- 🌱 I’m currently learning 
+
+- 📫 find me on linkedin 
+
+https://sites.google.com/view/kworigami/home
+
+
+
+
 
 <!---
 Shatury/Shatury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
