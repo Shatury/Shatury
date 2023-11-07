@@ -1,20 +1,6 @@
- Hi, We are fold 
-    and interested in 
-    
-    Fundamentals
-    
-   basics
-   
-   sites.google.com 
-   
-   clouds
+Shades
+Folding dreams crafting wonders 
 
-
-- 🌱 I’m currently learning 
-
-- 📫 find me on 
-
-https://sites.google.com/view/kworigami/home
 
 
 
